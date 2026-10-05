@@ -123,6 +123,7 @@ function App() {
               <label>
                 Transaction JSON
                 <textarea
+                  aria-label="Transaction JSON"
                   value={rowsText}
                   maxLength={20000}
                   onChange={(event) => setRowsText(event.target.value)}
