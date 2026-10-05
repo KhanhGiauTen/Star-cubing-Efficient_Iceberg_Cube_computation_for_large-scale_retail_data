@@ -53,3 +53,8 @@ Thumbs.db
 # Project-specific
 data/
 .env
+.vercel/
+web-demo/node_modules/
+web-demo/dist/
+web-demo/public/runtime/
+web-demo/artifacts/

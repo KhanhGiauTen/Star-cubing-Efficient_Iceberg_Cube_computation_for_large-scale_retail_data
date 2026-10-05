@@ -1,0 +1,33 @@
+{
+  "runtime": "pyodide 314.0.7",
+  "files": [
+    {
+      "path": "browser_api.py",
+      "sha256": "9230c6bd4e9ad4857f787dc063c585c5596e421e7916ee8ed712777dc9dea752"
+    },
+    {
+      "path": "src/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/algorithm/__init__.py",
+      "sha256": "1b61adda98c9599b382d3d595fe30b82fc81c66c81b3329abfac15695910c7f8"
+    },
+    {
+      "path": "src/algorithm/buc.py",
+      "sha256": "bc88275dcd867defc0515ad01189e8c9d4b396b098d4de8e22c5e106e8885d55"
+    },
+    {
+      "path": "src/algorithm/bottom_up.py",
+      "sha256": "c84c40f442cf36577855126b95e200c80746e28a1982283cd6ed92b2fbb12fb0"
+    },
+    {
+      "path": "src/algorithm/star_cubing.py",
+      "sha256": "165e8d3a8b037496fb89394ef7588aebb79c3a4389edc3c27a6e6788c8f81d04"
+    },
+    {
+      "path": "src/algorithm/star_tree.py",
+      "sha256": "b5e7a6c64baab14aaf0c3d986ea9d150e88d601f7292195d789878624a4ea6b1"
+    }
+  ]
+}

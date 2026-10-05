@@ -1,0 +1,53 @@
+[
+  {
+    "min_support": 0,
+    "rows": [
+      {
+        "Region": "North",
+        "Category": "Books",
+        "Channel": "Web",
+        "sales": 100
+      },
+      {
+        "Region": "South",
+        "Category": "Books",
+        "Channel": "Store",
+        "sales": 200
+      }
+    ]
+  },
+  {
+    "min_support": 150,
+    "rows": [
+      {
+        "Region": "North",
+        "Category": "Books",
+        "Channel": "Web",
+        "sales": 100
+      },
+      {
+        "Region": "South",
+        "Category": "Books",
+        "Channel": "Store",
+        "sales": 200
+      }
+    ]
+  },
+  {
+    "min_support": 1000,
+    "rows": [
+      {
+        "Region": "North",
+        "Category": "Books",
+        "Channel": "Web",
+        "sales": 100
+      },
+      {
+        "Region": "South",
+        "Category": "Books",
+        "Channel": "Store",
+        "sales": 200
+      }
+    ]
+  }
+]

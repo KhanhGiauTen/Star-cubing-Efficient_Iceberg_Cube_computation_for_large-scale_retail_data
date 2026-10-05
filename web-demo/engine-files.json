@@ -1,0 +1,9 @@
+[
+  "browser_api.py",
+  "src/__init__.py",
+  "src/algorithm/__init__.py",
+  "src/algorithm/buc.py",
+  "src/algorithm/bottom_up.py",
+  "src/algorithm/star_cubing.py",
+  "src/algorithm/star_tree.py"
+]

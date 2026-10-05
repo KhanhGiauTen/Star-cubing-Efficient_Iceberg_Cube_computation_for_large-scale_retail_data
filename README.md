@@ -1,5 +1,17 @@
 # Star-cubing Iceberg Cube Miner
 
+## Public Browser Demo
+
+[Cube Lab](https://star-cubing-khanh-demo.vercel.app) runs the original Star-Cubing
+baseline, BUC and Bottom-up implementations in a Pyodide browser worker.
+Use synthetic or local JSON transactions, change the minimum sales threshold,
+compare output cells, inspect roll-up levels and export the result as JSON.
+No retail dataset, customer data, warehouse or Power BI credentials are exposed.
+
+This is a bounded educational sandbox, not the large-scale benchmark. Differences
+between the source baseline and Bottom-up are displayed, not hidden or replaced.
+See [browser deployment notes](docs/browser-demo.md) for scope and verification.
+
 Project Python + SQL for computing Iceberg Cube on large-scale retail POS data, with benchmark artifacts for the benchmark phase.
 
 ## Scope
